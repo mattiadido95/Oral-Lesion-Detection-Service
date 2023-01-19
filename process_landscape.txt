@@ -1,0 +1,7 @@
+Activity: Identified the core processes
+“Setup oral cancer detection service”
+“Prepare oral cancer lesion record”
+“Generate oral cancer training and test set”
+“Develop oral cancer classifier”
+“Classify oral cancer record” 
+“Check oral cancer classifier quality”
